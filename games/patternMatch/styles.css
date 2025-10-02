@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(247, 225, 201);
+}
+#title{
+    color:rgb(94, 78, 239);
+    text-align: center;
+    border: 6px solid rgb(94, 78, 239);
+}
+#p1{
+    color: pink;
+}
+#square{
+    text-align: center;
+    height: 50px;
+    width: 50px;
+    background-color: #555;
+}
